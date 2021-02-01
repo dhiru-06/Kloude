@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Kloude/static/css/main.9fc33a4c.chunk.css",
+    "main.js": "/Kloude/static/js/main.06e79b7d.chunk.js",
+    "main.js.map": "/Kloude/static/js/main.06e79b7d.chunk.js.map",
+    "runtime-main.js": "/Kloude/static/js/runtime-main.de12d162.js",
+    "runtime-main.js.map": "/Kloude/static/js/runtime-main.de12d162.js.map",
+    "static/js/2.745225b0.chunk.js": "/Kloude/static/js/2.745225b0.chunk.js",
+    "static/js/2.745225b0.chunk.js.map": "/Kloude/static/js/2.745225b0.chunk.js.map",
+    "static/js/3.4a67fd94.chunk.js": "/Kloude/static/js/3.4a67fd94.chunk.js",
+    "static/js/3.4a67fd94.chunk.js.map": "/Kloude/static/js/3.4a67fd94.chunk.js.map",
+    "index.html": "/Kloude/index.html",
+    "static/css/main.9fc33a4c.chunk.css.map": "/Kloude/static/css/main.9fc33a4c.chunk.css.map",
+    "static/js/2.745225b0.chunk.js.LICENSE.txt": "/Kloude/static/js/2.745225b0.chunk.js.LICENSE.txt",
+    "static/media/image.cab2533c.png": "/Kloude/static/media/image.cab2533c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.de12d162.js",
+    "static/js/2.745225b0.chunk.js",
+    "static/css/main.9fc33a4c.chunk.css",
+    "static/js/main.06e79b7d.chunk.js"
+  ]
+}
