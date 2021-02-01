@@ -11,3 +11,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.DarkMode {
+  transition: all 0.25s linear;
+  background-color: black;
+}
+.WhiteMode {
+  transition: all 0.25s linear;
+  background-color: white;
+}
